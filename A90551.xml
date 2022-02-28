@@ -1,0 +1,673 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peters's resurrection, by way of dialogue between him and a merchant: upon the publishing a pretended sermon at his funeral; wherein is affirmed those sayings of Machiavel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90551</idno>
+            <idno type="STC">Wing P1728</idno>
+            <idno type="STC">Thomason E999_8</idno>
+            <idno type="STC">ESTC R207832</idno>
+            <idno type="EEBO-CITATION">99866860</idno>
+            <idno type="PROQUEST">99866860</idno>
+            <idno type="VID">119148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119148)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E999[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peters's resurrection, by way of dialogue between him and a merchant: upon the publishing a pretended sermon at his funeral; wherein is affirmed those sayings of Machiavel.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A response to: Caryl, Joseph.  Peters patern.</note>
+                  <note>Annotation on Thomason copy: "sept 26.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Caryl, Joseph, 1602-1673. --  Peters patern.</term>
+               <term>Peters, Hugh, 1598-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119148:1" rendition="simple:additions"/>
+            <p>
+               <hi>PETERS'S</hi> RESURRECTION, By way of DIALOGVE Between <hi>Him</hi> and a <hi>Merchant:</hi> OCCASIONED Vpon the Publiſhing a pretended Ser<g ref="char:EOLhyphen"/>mon at his Funeral; wherein is affirmed thoſe ſayings of <hi>Machiavel.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Machiavel Lib. 3. Cap. 2. Verſ. 6.</hi>
+               </bibl>
+               <p>All men were born to play their Game.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Lib. 5. Cap. 8. Verſ. 12.</hi>
+               </bibl>
+               <p>The whole world is but a Cheat.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119148:2"/>
+            <pb n="3" facs="tcp:119148:2"/>
+            <head>
+               <hi>PETER'S</hi> RESURRECTION.</head>
+            <sp>
+               <speaker>Peters.</speaker>
+               <p>FRIEND?</p>
+               <stage>(Strikes the Merchant on the ſhoulder.)</stage>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>Thou art miſtaken, I am no friend of thine; get thee to thoſe of thy Congregation, thy infernal friends.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Doſt not know me?</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I think I have ſeen a thing like thee, when it liv'd; a good Witty Fellow, and a Holder forth.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I am <hi>Hugh Peters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Thou haſt had many <hi>Hues,</hi> but this is the worſt <hi>Hue</hi> that ever I ſaw thee in.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Prethee be ingenuous, what cauſeth this diſtance?</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I know thou ever had'ſt a cloven Tongue, haſt thou no cloven Feet? ar't a man, fl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh, blood and bone, that we may drink, coverſe, and be familiar?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Do'ſt doubt it? give me thy hand.</p>
+            </sp>
+            <pb n="4" facs="tcp:119148:3"/>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Hold there, we are not ſo familiar yer; lead on to the Ship, and wee'l diſpute further.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Boy, a Room, and ſome Wine, preſently?</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>What Wine do you drink Gentlemen?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>What Wine do we drink? why goodman Cocks<g ref="char:EOLhyphen"/>comb, you ſee we have none to drink.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>But what wine have you a mind to drink?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I, now thou ſay'ſt ſomething; why—</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>No matter what, ſo it be the cooleſt in the Celler, for this Gentleman came from a hot place lately.</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>A glaſs of White? you ſhall Gentlemen.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>But I ſay I wo'nt Sirrah, bring a glaſs of Sack.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>That's beſt indeed for one over-heated; it is the Foot-boyes Phyſick.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>And now, and now your meaning?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>That's no ſtrange thing, 'tis not the firſt time I have been dead, nor the laſt time I ſhall go to Hell, I have another journey to make thither yet.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I hope thou'lt go alone, and bid a Pox on thy company.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>If I go without thee I ſhall miſs my way; the laſt time I went thither, I was accompanied with all ſorts and kinds of Merchants, eſpecially the Turky.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Thou know'ſt the old ſaying <hi>(Hugh)</hi> the Turk and the Devil are in continual league; I hope you had no <hi>Maligo</hi> Merchants with you?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Why, that then?</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I ſhould think the worſe of their Wine as long as I liv'd after.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Is that all? what's this to our coming hither? pre<g ref="char:EOLhyphen"/>thee either draw the manner of thy amazement to a conclu<g ref="char:EOLhyphen"/>ſion, or ply thy drinking, for thou knoweſt that Time and Tide, &amp;c. and I have buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I have beſtowed a Groat upon thee <hi>Hugh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Would all the Merchants in <hi>Europe</hi> would do the
+<pb n="5" facs="tcp:119148:3"/>like. But how upon me?</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Thy funeral Sermon <hi>Hugh,</hi> drawn as thou ſee it, with ſable lines.</p>
+               <stage>Shews it him.</stage>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Has the fellow ſpoke well of me? I hope I have eſcap'd that curſe of being ſpoke well on.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Well <hi>Hugh,</hi> when thou doſt take an occaſion to die once in earneſt, as thou haſt dy'd like a Red-bullion many a time in jeſt, I wiſh thou may'ſt never be better ſpoken of.</p>
+            </sp>
+            <sp>
+               <speaker>Pet,</speaker>
+               <p>I fear the fellow hath done me wrong; I prithee hand it hither.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Wrong! no, he hath done thee right, as much right as heart could wiſh, for thou know'ſt,
+<hi>Hugh,</hi> he that hath an ill name, is half hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>No matter for Report, ſo I eſcape the thing; I'le loſe a finger to ſave a hand at any time; would not you do the like?</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>What I would do is not, but what you have done is the queſtion; and here he hath diſplayed you in your own colours.</p>
+               <stage>Gives him the Book.</stage>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>If he prove a witty knave I ſhall love him, and fight under his—VVhat's here,
+<hi>Peters</hi> his Patern, or the path way to worldly happineſs? — I ſee Fools will be med<g ref="char:EOLhyphen"/>ling.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Nay, nay; no fool, no fool, there's no fool like the old fool, <hi>Hugh;</hi> read and be thankful, it coſt thee no<g ref="char:EOLhyphen"/>thing, ſpend thy judgement upon it.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>That's more than 'tis worth; however to ſatisfie thee I will take a ſlight ſurvey of ſome part of it.</p>
+               <stage>Reads it to himſelf.</stage>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Nay, nay, read out <hi>Hugh,</hi> be not aſham'd of thy, own Picture; 'tis as like thee —</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>As Chalk is to Cheeſe, or Cheeſe to Onions; tru<g ref="char:EOLhyphen"/>ly the Man means well, and offers fair, but I doubt would loſe his Bets if a man ſhould take him up; he can be no good Bowler that holds his Byaſs the wrong way; beſides,
+<pb n="6" facs="tcp:119148:4"/>his often rubs will make him fall ſhort of the Iack, if he aims at it.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>No Sir, no, 'tis not <hi>Presbyters Iack,</hi> but <hi>Peters</hi> his <hi>Iackquet</hi> that he drives at, and therefore ſmother not the Gentlemans conceit, but read on without wincing or kicking; if thou bee'ſt a Wir, ſhew thy ſelf a friend to Wit.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I can gueſs by the foot of <hi>Hercules,</hi> the whole pro<g ref="char:EOLhyphen"/>portion of his Body, and therefore will pocket up this Pamphlet as thy gift, and at another time will tell thee my opinion on't.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>And that will be far remote from the deſert of the Gentleman, or my deſire, and ſo wee'l break off.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Nay hold, now we are in, lets be in for Ale and Cakes as the ſaying is, Ile tell thee what.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>What will thou te<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l me? ſome ſtale Tale of thy journey to Hell, and thy entertainment there.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>No ſuch matter, 'tis wide of my thoughts; you ſee (Friend) that ſeveral things are dayly caſt upon me many leagues from my knowledge or apprehenſion, ſo that I am become the Town talk; Now ſince we, are met, and Friends, Ile turn my inſide outwards, that as, I will expoſe the very ſecrets of my Soul to thee.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>No, <hi>Hugh,</hi> thou wilt not tell me how many times with the Butchers wife, nor —</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Prethee hold, thou art a wicked Wit, and talk'ſt thou knowſt nor what, thoſe are but the off-falls of Wit that caſt that upon me, and ſtinck worſe than the Butch<g ref="char:EOLhyphen"/>ers excrements they prate on.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Prithee leave off thy railing, thou art not now in the Pulpit, keep it to theſe out thy Wit next Sunday, I ſhall be gone if thou haſt nothing elſe to ſay forthy ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>The fellow that made this book.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>That Book ſticks in thy ſtomach ſtill, I prithee
+<pb n="7" facs="tcp:119148:4"/>out with it, and ſpeak thy laſt.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Not ſo neither; I ſay the Fellow that made this Book.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>That Fellow hath no Fellow, put not thy Wit on the Tenters good <hi>Hugh,</hi> but let me be gone, I ſweat to ſee thee on the rack, if thou haſt left thy Wit in thy other hoſe, tell me ſo, and I am ſatisfied, I know thou haſt travailed farr, St. <hi>Albanes</hi> is a place remore, either come to the point or nothing <hi>Hugh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I am juſt upon't; this Fellow as I ſaid hath <hi>Guſ<g ref="char:EOLhyphen"/>man ad unguem,</hi> at his fingers ends.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>What then <hi>Hugh,</hi> what then?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>He is much miſtaken in me, that wrote the Book.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Again the Book!</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>For <hi>Guſman</hi> was an Author I ſeldome converſt with, yet I very much approve his ſaying, <hi>Let us make the beſt uſe of our time,</hi> as the principal point to my enſuing diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Would I could here it once.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Have Patience and you ſhall; I cannot but com<g ref="char:EOLhyphen"/>mend the Gentleman who ever he was, that made uſe of this ſaying for his Text, for there is no man ſo ſimple or void of reaſon, not to make uſe of his time, he that neg<g ref="char:EOLhyphen"/>lects it may dye a beggar, and be regiſtred among
+<hi>Guſ<g ref="char:EOLhyphen"/>mans</hi> Fools.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Now thou commeſt pretty near to the buſineſſe, and I will hear thee, with much ſorrow that thou haſt not a greater Auditory; proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Make hay while the Sun ſhines, take opportuni<g ref="char:EOLhyphen"/>ty by the foretop, ſlip no occaſion offered that may bring you in profit; Theſe are your Citty Maxims, the very Ba<g ref="char:EOLhyphen"/>ſis upon which you all ground the fabrick of your Earthly hopes and happineſs, and is juſtifiable, why then ſhould I be calumniated by a Company of Earth-Worms,
+<pb n="8" facs="tcp:119148:5"/>as greedy after worldly gain as the moſt co<g ref="char:EOLhyphen"/>vetous<note n="*" place="margin">You muſt know there are Jews in <hi>England.</hi>
+                  </note> Jew Chriſtendome.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Now <hi>Hugh</hi> you out run the Cunſtable, but will be overtaken in time, and your reaſon ſet in the ſtocks, unleſſe you keep cloſer to your Text, and hold forth your meaning in plainer terms.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Well then I ſhall come home to your own doors in plain terms, and throw the dirt in your own faces, that your Engines have endeavoured to throw in mine.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>That hath been to cool the leaprous Itch of thy Zeal, and make thee become a cleanly Chriſtian.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>W ether doth thy wit run?</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Not a Wool-gathering <hi>Hugh,</hi> but to ſend Hue and Cry after thine.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Well, I ſhall now go on.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I, do good <hi>Hugh,</hi> make haſte to the end, for I am wearied with the beginning.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I was again thinking upon the ſaying of <hi>Guſman,</hi> and the ingenuity of the perſon that quotes him, <hi>Let us make uſe of our times,</hi> &amp;c. the which hath very perti<g ref="char:EOLhyphen"/>nently put me in mind of another ſaying in <hi>Machaivel,</hi> co<g ref="char:EOLhyphen"/>reſpondent apted and agreeable to it
+<hi>lib.</hi> 3. <hi>cap.</hi> 2. <hi>verſ.</hi> 6. Where he ſayes, <hi>All men were born to play their Game;</hi> and in another place, <hi>The whole world is but a Cheat.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>How will you make that out <hi>Hugh?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Very well Merchant, I ſhall come to you anon; but the firſt thing I ſhall inſiſt upon is this, All Men were born to play their Game; now as by Nature we are all ſuppoſed to become Gameſters, we ought to look about us, and every Man to play his Cards as well as he can, to which end we ought to underſtand the variety of Games; I ſhall give you a brief account of ſome of them; for the preſent there is <hi>Put,</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>That's the Parſons Game.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>
+                  <hi>Gleek, Beſt, Picket, Primero, Primaviſti,</hi> the poor
+<pb n="9" facs="tcp:119148:5"/>Schollars Game when he is Cloak-leſs, <hi>Leaſing-lodam,</hi> the Cavaliers Game, <hi>Wyning Loadam, Hewſons</hi> Game, <hi>New<g ref="char:EOLhyphen"/>cut,</hi> the <hi>Presbyters</hi> Game,
+<hi>Cribbidge,</hi> the <hi>Uſurers</hi> Game, <hi>One and thirty,</hi> the <hi>Parliaments</hi> Game; then there is, <hi>Cheſs, Paſſage, Noddy, Hazard,</hi> which are diſtinguiſhed thus; <hi>Cheſs,</hi> the <hi>States-Mans</hi> Game, <hi>Paſſage,</hi> the <hi>Merchants</hi> Game, —</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>It muſt be the Pippin-Merchant then.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>
+                  <hi>Noddy,</hi> is the <hi>Aldermans</hi> Game, and <hi>Hazard</hi> the <hi>Souldiers</hi> Game.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Nay, now you are out <hi>Hugh,</hi> for moſt properly <hi>Hazard</hi> is the
+<hi>Merchants</hi> Game.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>It is any mans Game that hath a mind to it, you know the old ſaying, —</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Thou art made up of nothing, but old ſayings like a Botchers breeches of old ſhreds.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Thou haſt a tongue, and ſo has a Cal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that will be inceſſantly bleating, (the explanation and uſe of every which Game being very neceſſary, I ſhall at another time more fully ſet forth in every particular) and ſo to the mat<g ref="char:EOLhyphen"/>ter I was upon concerning the Game <hi>Hazard,</hi> a Learned Authour makes uſe of theſe words, ſpeaking to a friend of his, <hi>Try, it is but a Hazard,</hi> in which words are compre<g ref="char:EOLhyphen"/>hended, timely advice, good counſel and encouragement; <hi>Lazarillo de Tormes</hi> hath it, <hi>I will run the hazard;</hi> the wiſe &amp; reverend <hi>Buſcon</hi> hath the like, when he ſpeaks of his inten<g ref="char:EOLhyphen"/>tion to Court the Lady; theſe words, <hi>I will run the hazard,</hi> plainly demonſtrates both Reſolution and Courage: And another Author ſayes, and very well, I have but a life to loſe, and I'l venture it, that is, I will Hazard it, —</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Hold <hi>Hugh,</hi> that Author was hang'd laſt Seſſi<g ref="char:EOLhyphen"/>ons.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Why, then he plaid his Game ill, and I'l quote him no more, however the words hold, I'le run the Ha<g ref="char:EOLhyphen"/>zard on't, that is, he had but a life to loſe, and he adven<g ref="char:EOLhyphen"/>tur'd it; and ſome have this ſaying, <hi>I'le hazard a hangi g, but I'le have my ends.</hi>
+               </p>
+            </sp>
+            <pb n="10" facs="tcp:119148:6"/>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>That will be thy end if thou mend'ſt not thy manners; what a ſtir doſt thou keep about this Hazard, I think thou art turn'd <hi>Buzard.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>'Tis an old ſaying, Tell a Tale to a Mare and ſhe'l let a — I tell thee, though we are all born to play our Game, we cannot all be Winners, ſome muſt be loſers, lucks all, as the ſaying is, he playes well, but his lucks naught, yet we muſt try, it is but a Hazard, happy be lucky, And now the words happy be lucky, put me in mind of a Story, or rather a Tale.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>VVhat is it of <hi>Tom Thumb, Iohn Dory, Robin Hood,</hi> or a Tale of a Tub that hath no bottom to't.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Merchant I ſhall wind up mine, though I am none of the weavers Company; There was a poor, but motherly woman.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>All thy dealing is in women, and this being mo<g ref="char:EOLhyphen"/>therly, makes me ſuſpect ſhe bore thee a Baſtard.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>There's no heed to be given to thy words, thy tongue's no ſlander; this poor creature I ſay begg'd of a Gentleman a penny.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>VVith the Barn, or Child at her Back.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>No Merchant, with good words in her mouth.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Did they ever come out? if they did, 'tis more than ever come out of thine ſince I knew thee.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Thou art poſſeſt I think with the Spirit of Contra<g ref="char:EOLhyphen"/>diction, prithee hold thy Clack; The Gentleman wiſhfully<g ref="char:punc">▪</g> looking upon her.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>VVith his Eyes or is Noſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>His Noſe had not taken a journy from his face, Mer<g ref="char:EOLhyphen"/>chant; ſaith he, I wonder woman, you that have ſo mo<g ref="char:EOLhyphen"/>therly like a Countenance ſhould be ſo idle to beg, can you find no other way to live by, no an't ſhall pleaſe you quoth ſhe I am very poor, a widow, and have many Children.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I thought 'twould come to that, of thy own be<g ref="char:EOLhyphen"/>getting I warrant thee, ſome Truckle that kept thee above ground upon a March.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Thy tongue beats a continual March in my ears,
+<pb n="11" facs="tcp:119148:6"/>Merchant either hear my Tale, or kiſſe my —</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>VVith a Cart whip, I, and ſpare not, 'tis not the firſt time thou haſt deſerv'd it.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>If every man had his deſert, what would become of thee, but ile mind thee no more, and ſo to my Tale; quoth the Gentlemen thou ſeem'ſt to be a grave Matron, a woman of years,</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>'Twill be ten before this Tale hath an end, heark you <hi>Hugh</hi> did he give her any thing or no.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Yes Merchant he gave her brotherly advice, told her there were many ſhe Doctors, or Mountebanks in the Countrey.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>And thou haſt been a Pulpit Mountebank almoſt ever ſince thy head was no bigger than a Crab.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Thy words are ſomewhat ſower, but I ſhall not give over for all that.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>If thou doſt, thou haſt loſt thy wanted impu<g ref="char:EOLhyphen"/>dence.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I have you in my eye Merchant, and ſhall pierce you anon, Now ſayes the Gentleman, take my counſel, I will give thee a Receit, which with theſe words <hi>Hab Nab, Luck's all,</hi> with a ſtroak upon the head, and a bleſſing or two following, will cure all diſeaſes, with
+<hi>For anter I, For anter no.</hi> words of power and efficacy, adminiſter it inward or outward, it will do no more harm, than cream will do a Cat; Bleſſe your worſhip quoth ſhe, and ſo they parted. It happened not long after, the ſame Gentleman being at dinner, had unfortunately a fiſh-bone ſtuck croſſe his Throat, which very much troubled him, and ſending up and down the Country for help, many ſhee Mountebanks came, but none could eaſe him, at laſt quoth the Man of the Houſe, there is a woman not farr off hath done a great ma<g ref="char:EOLhyphen"/>ny excellent cures, and if you pleaſe I ſhall ſend for her; up<g ref="char:EOLhyphen"/>on which ſhe came, who laying her hand upon the head of the Patient with a bleſſing or two cries out for <hi>For anter I, For anter no, Hab Nab the word, and luck's all,</hi> at which the Gentleman remembring the words he had taught her,
+<pb n="12" facs="tcp:119148:7"/>burſt out into a ſuch a laughter, that the bone broke in his throat, he eaſed and cured, and ſhee famous many years after, and ſo I ſay we muſt try, and not happy be lucky; and not like one of <hi>Guzmans</hi> fools ſtand ſtaring about with finger in mouth, while another that minds his Game pick's his pocket; he muſt be vigilant as well as venturous, he muſt imploy his Talent be what it will to his beſt advan<g ref="char:EOLhyphen"/>tage.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>As thou haſt done the Talent of thy Tongue an hour at leaſt to no purpoſe, is thy glaſs out yet?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>I ſay we muſt venture our ſmall Talent, that is, beſtir our ſelves in the affairs of this world, run the hazard of our Fortunes, and not ſit ſtill like Sotts, ex<g ref="char:EOLhyphen"/>pecting help from the Clouds, becauſe of that ſaying, When the Sky falls we ſhall have Larks, when you know there is another ſaying, VVhile the Graſſe grows the Steed ſtarves.</p>
+               <q>
+                  <l>He must be Madman or a Fool at leaſt,</l>
+                  <l>That ſtarves himſelf with hoping for a Feast.</l>
+               </q>
+               <p>As a worthy Author hath it; yet you know there is another ſaying, If it were not for hope the heart would break; and again, He that is without hope, is without comfort; therefore we muſt venture, and hope the beſt; we muſt venture, let it be what it will: a Cat, a Dog, or any living Pig, as the ſaying is; again, nothing venture, nothing have. Now it is to be noted that there is no man ſo ill be<g ref="char:EOLhyphen"/>friended by the world that he hath nothing to ven<g ref="char:EOLhyphen"/>ture, or more properly to hazard; <hi>Whittington</hi> had his Cat and became Lord-Mayor of your City;
+<hi>Hewſon</hi> old Shooes, and is become the Lord knows what; <hi>Pride</hi> his Slings and Leather Jackquet; <hi>Bark<g ref="char:EOLhyphen"/>ſtead</hi> his Thimbles.</p>
+            </sp>
+            <pb n="13" facs="tcp:119148:7"/>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>And thou thy Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Thy Tongue's out of tune, wouldſt thou have me venture that I never had? My Noble Pa<g ref="char:EOLhyphen"/>tron whoſe memory is dear and pretious to me, ha<g ref="char:EOLhyphen"/>zarding but one ſmall ſpot of Land, won three Kingdoms.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I, <hi>Hugh,</hi> but I have heard your Patron, as you call him, was but a foul Gameſter, and ſo it thrived with him, for what hee ſo craftily got, his ſons have as ſimply loſt.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>But for all that the Man han't his Mare a<g ref="char:EOLhyphen"/>gain; the truth on't is, the ſons were not ſo well skilled at Hazard as their father, and ſo fell to Put, which they being forced to, were out, and loſt all; but however, as I told you, every one playes his Game; now let it be what it will, hee Playes beſt that VVins, let it be by fair Play, or by fowl, or as the ſaying is, by Hook or by Crook, be it his Right, be it his wrong; And ſo you ſee Merchant that I have made it out, all men were born to play their Game; ſuch as VVin are <hi>Machiavels</hi> Diſci<g ref="char:EOLhyphen"/>ples, perſons endowed with ſubtlety, and fore<g ref="char:EOLhyphen"/>ſight; and ſuch as loſe are none but <hi>Guzmans</hi> fools, that ſtand blowing their fingers while they loſe their part of their broath; for, it is better to be a rich Knave, then a poor Fool.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>I commend thee <hi>Hugh,</hi> thou ſpeakeſt well for thy ſelf, but how doſt thou prove that the whole VVorld is a Cheat?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>That follows by conſequence, and I have partly ſet it forth before, if you did apprehend me, there is no man that goes to play, or game, but hopes he ſhall win; now the reſolute man muſt and wiſh win, what he cannot get by fair, he will by foul play, what low <hi>Ful<g ref="char:EOLhyphen"/>lam</hi>
+                  <pb n="14" facs="tcp:119148:8"/>cannot do, high <hi>Fullam</hi> muſt, <hi>Maxwell</hi> to his Wife,
+<hi>Lib.</hi> 1. <hi>Chap.</hi> 2. <hi>Verſe</hi> 4. the excellent uſe of which two Skelliton inſtruments, are dexteriouſly ſet forth by a lear<g ref="char:EOLhyphen"/>ned and judicious Author, read
+<hi>Scarborough</hi> upon <hi>Max<g ref="char:EOLhyphen"/>wel</hi> and his Wife, and you may alſo caſt your eye upon
+<hi>Quarles</hi> that quotes both <hi>Scarborough</hi> and <hi>Maxwell,</hi> and others that Comment upon them all; I could muſter al<g ref="char:EOLhyphen"/>moſt an Army of known Authors, that will juſtifie that there reſts ſuch a ſubtle faculty in thoſe bleſſed bare bones, that once thrown out of a mans hand with Ala<g ref="char:EOLhyphen"/>crity, they ſhall out run, that is, cheat both City and Country; Now I confeſſe there are ſundry other inſtru<g ref="char:EOLhyphen"/>ments, in another way, according to their ſeveral con<g ref="char:EOLhyphen"/>ditions and qualities, that infer and promote the Wor<g ref="char:EOLhyphen"/>ſhipful Trade of cheating beſides Coſtermongers and Canters, as in down right tearms, for all thou art my friend, thou art no better than a cheat.</p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>How, a Cheat? — Boy, fetch me a Ser<g ref="char:EOLhyphen"/>jeant, — I will have you know I live by my Repu<g ref="char:EOLhyphen"/>tation; I'l make you make your words good.</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>That's eaſily done, Tell mee, and be clear, if thou canſt <hi>bona-fide,</hi> what Citizens, Merchant, or Tradeſman, doſt thou know unacquainted, or ra<g ref="char:EOLhyphen"/>ther not inſpired with theſe four Gifts.</p>
+               <q>
+                  <l>Lying, Cozening,</l>
+                  <l>Covetouſneſs, and Hypocriſie.</l>
+               </q>
+               <p>Eſpecially the two firſt, thoſe inſeperable Com<g ref="char:EOLhyphen"/>panions Lying and Cozening; lying is as neceſ<g ref="char:EOLhyphen"/>ſary as breath to your well-being; let a man come to any of your Houſes, Cellars, or Shops, to barter for any commodities whatſoever, from the Mer<g ref="char:EOLhyphen"/>chant to the Mercer, from the Mercer to the Draper, <hi>&amp;c.</hi> and bid what in reaſon it is conceiv'd
+<pb n="15" facs="tcp:119148:8"/>to be worth, ſtraight way you enter into Dia<g ref="char:EOLhyphen"/>logue with the Devil, and he teacheth you what to ſay, I proteſt Sir you doe not bid me the rate or price it coſt me; or indeed you are far wide of the price; or I proteſt, if one Chriſtian may believe another, (when the Devil a Chriſtian is amongſt you) I would it were in my heart if it coſt me ſo, or I paid ſo for't: and it is true, for it commonly falls out he bids you more, and having bought it, and the deceit by ſome other being diſcover<g ref="char:EOLhyphen"/>ed) for 'tis certain you cannot give one another a good word) all the revenge the deceived party hath is to cry out, what a baſe Lying Couzening Knave was this; Nay I have known ſome of you that have pro<g ref="char:EOLhyphen"/>teſted they could not thrive, the times were ſo bad, unleſſe they ſtretch out an oath now and then, and for Lying it ſtood as the fore man of their Shop to draw in Cuſtom. If a young heir (in expectation) come to Town, and lighteth into ill company, (as that he cannot eſcape) there are ſo many lye in Ambuſcade to catch him up for a Waif or Stray, as belonging to the Lordſhips or Mannors of <hi>Dog-yard, Sodam. Croſs-lane</hi> or <hi>Duck-lane,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Where thou haſt baited the Whore of <hi>Babylon</hi> even to death many a time.</p>
+            </sp>
+            <sp>
+               <speaker>Peters.</speaker>
+               <p>No Merchant, I leave that to your Caſhieres, who are bound to cheat you as well as you do others: and this young heir, as I was ſaying, through his exceſſe and prodi<g ref="char:EOLhyphen"/>gality in ſuch company, comes to want money, and is to ſeek for it, ſtraight, one of your Engines, that is, his mad Companions, ſtarts up, I have a friend, ſayes he, a Merchant, Mercer, Draper, Goldſmith, or Jeweller, (according as the Gang are acquainted) that ſhall furniſh thee with ſuch Commodities ſhall bring in money boy, 'tis but giving a Bond under thy hand to pay ſo much when thy father dies, and when <hi>&amp;c.</hi> hang it, 'tis nothing: which commodities never yield the third part of what they are to pay for them; let any ask you how you can have the conſcience to do
+<pb n="16" facs="tcp:119148:9"/>ſuch ill acts, you anſwer, if they pay me, I cheat them, but if they never pay me they cheat me. But ſometimes Bills in E<g ref="char:EOLhyphen"/>quity are brought againſt you, after the fooles have recover<g ref="char:EOLhyphen"/>ed their ſenſes, &amp; then you are cozened of your expectation, and in ſpight of your teeth muſt be content to take the bare worth of your commodity, and you remain Vermine, if not Cheats upon Record. What combinations are daily held between the Taylor, Drapet and Mercer, the like be<g ref="char:EOLhyphen"/>tween the Merchant and Vintner to cheat us all, and yet you will cry out whore firſt. I could inſiſt upon other par<g ref="char:EOLhyphen"/>ticulars, but too much of one thing is good for nothing; and ſo I end as I begun, <hi>Make hey while the Sun ſhines;</hi> 'tis good advice, every day is not Sunday; that is, every day is not a Summers day, only this by way of Paren<g ref="char:EOLhyphen"/>theſis, and to make up my matter, in anſwer to the ſeveral Cheats, you have put upon poor Country men, let me ask you
+<hi>what is become of your Char<g ref="char:EOLhyphen"/>ter?</hi> a word to the wiſe is ſufficient, and a fools boult is ſoon ſhot; Thus you may ſee many things may happen between the Cup and the Lip, and ſo I conclude, <hi>Make uſe of your Time;</hi> Need makes the old Wife Trot, better late thrive than never, a lit<g ref="char:EOLhyphen"/>tle money will ſerve to pay a ſmall <hi>Layes down</hi> Reckoning, and ſo
+<hi>Vale, Vale. his mony.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merch.</speaker>
+               <p>Nay <hi>Hugh</hi> prithee be a good fellow for once, ſtay and take the other Glaſſe.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
